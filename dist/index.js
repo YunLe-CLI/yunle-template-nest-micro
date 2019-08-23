@@ -5,5 +5,4 @@ function __export(m) {
 Object.defineProperty(exports, "__esModule", { value: true });
 __export(require("./micro.module"));
 __export(require("./micro.service"));
-__export(require("./graphqls/micro.type"));
 //# sourceMappingURL=index.js.map
