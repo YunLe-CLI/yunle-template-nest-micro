@@ -7,7 +7,7 @@ exports.grpcClientOptions = {
     options: {
         url: '192.168.103.100:9004',
         package: 'api',
-        protoPath: path_1.join(__dirname, '../../src/micro-users/protobufs/', 'uuid.proto'),
+        protoPath: path_1.join('../protobufs/', 'uuid.proto'),
         loader: {
             arrays: true,
         },

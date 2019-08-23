@@ -1366,16 +1366,16 @@
         "signature": "89ba9770a26e5cd1e5e6a06a376f1ecf660c00bd67a41833fd2da8b8c7c77f47"
       },
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/grpc-client.options.ts": {
-        "version": "ffcd4f352040e2c9986d2bafa0982a0900191d7b0f798021b675d3771bef2650",
+        "version": "f76ddac31e4a16fda9bfeb3d91d873df2f75b6061509a9ef60f9f337d229c9f1",
         "signature": "b91b46c6e8269bf49aa7ce66d2cd3d9f9f34ef3631067c38aeec7ece6c698f27"
-      },
-      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.controller.ts": {
-        "version": "5a7345dad0a3c3977ab5dd352c028739d6b62e053e962c6a26c479cee10107c4",
-        "signature": "acf1b03a5eaf9ce8a79f14bca20d6a93b8d7aafb9817427bf104c4d311c75b65"
       },
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.service.ts": {
         "version": "febc09beed1edbe56e699f6f37e7875f195b124e9332b30725e62797e31091fc",
         "signature": "44879e8645605b5be7d1e4a71d0eeadfc88e0fe0312223350987d4831df72a94"
+      },
+      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.controller.ts": {
+        "version": "4aae949f86c7a4d10da97ea5074a49af502a5845ccedfd822f4031ef9c2e55e6",
+        "signature": "cb533eebaf93643cffb9e8f9d4d4419ca65b569db6b3ece4c3442f80d4594517"
       },
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.module.ts": {
         "version": "2f417e03f4838aeb493a92bda12e33606af5dfa6db0bce43584514d812dbd732",
@@ -1468,6 +1468,10 @@
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/json5/index.d.ts": {
         "version": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
         "signature": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538"
+      },
+      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/long/index.d.ts": {
+        "version": "d32ef7739402db3a15640222d047f0044e8e9a09ee123d49e8f57f3c66c2a732",
+        "signature": "d32ef7739402db3a15640222d047f0044e8e9a09ee123d49e8f57f3c66c2a732"
       },
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/normalize-package-data/index.d.ts": {
         "version": "c9ad058b2cc9ce6dc2ed92960d6d009e8c04bef46d3f5312283debca6869f613",
@@ -3602,16 +3606,17 @@
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/util.d.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.controller.ts": [
-        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@nestjs/common/index.d.ts",
-        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/util.d.ts",
-        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.service.ts": [
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@nestjs/common/index.d.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/rxjs/index.d.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@nestjs/microservices/index.d.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/grpc-client.options.ts",
+        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/util.d.ts",
+        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.controller.ts": [
+        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@nestjs/common/index.d.ts",
+        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.service.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/util.d.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3737,6 +3742,10 @@
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/json5/index.d.ts": [
+        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/util.d.ts",
+        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/long/index.d.ts": [
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/util.d.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3924,6 +3933,9 @@
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@nestjs/common/utils/index.d.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/util.d.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.controller.ts": [
+        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.service.ts"
       ],
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.service.ts": [
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@nestjs/common/index.d.ts"
@@ -5448,6 +5460,10 @@
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/util.d.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/long/index.d.ts": [
+        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/util.d.ts",
+        "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/json5/index.d.ts": [
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/util.d.ts",
         "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/node/ts3.2/util.d.ts"
@@ -6359,8 +6375,8 @@
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@nestjs/microservices/tokens.d.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@nestjs/microservices/index.d.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/grpc-client.options.ts",
-      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.controller.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.service.ts",
+      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.controller.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/src/micro.module.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@babel/types/lib/index.d.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/babel__generator/index.d.ts",
@@ -6384,6 +6400,7 @@
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/jest-diff/build/index.d.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/jest/index.d.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/json5/index.d.ts",
+      "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/long/index.d.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/normalize-package-data/index.d.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/stack-utils/index.d.ts",
       "/users/dgz/ggggggggg/github/yunle-template-nest-micro/node_modules/@types/superagent/index.d.ts",
