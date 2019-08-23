@@ -26,13 +26,18 @@
     "@grpc/proto-loader": "^0.5.1",
     "@nestjs/common": "^6.0.0",
     "@nestjs/core": "^6.0.0",
+    "@nestjs/graphql": "^6.4.2",
     "@nestjs/microservices": "^6.5.3",
     "@nestjs/platform-express": "^6.0.0",
+    "apollo-server-express": "^2.8.2",
+    "graphql": "^14.5.0",
+    "graphql-tools": "^4.0.5",
     "grpc": "^1.23.2",
     "husky": "^3.0.4",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
-    "rxjs": "^6.3.3"
+    "rxjs": "^6.3.3",
+    "type-graphql": "^0.17.5"
   },
   "devDependencies": {
     "@nestjs/testing": "^6.0.0",
