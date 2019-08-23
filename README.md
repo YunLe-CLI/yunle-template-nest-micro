@@ -29,8 +29,8 @@
 ## dev
 > `npm run start:dev`
 
-## start
-> `npm run start`
+## build
+> `npm run build`
 
 ## 欢迎star
 > [开源github](https://github.com/YunLe-CLI/yunle-template-nest) 欢迎star ⭐⭐⭐ 感谢感谢！！！
