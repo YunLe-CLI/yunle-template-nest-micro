@@ -16,6 +16,7 @@ MicroModule = __decorate([
     common_1.Module({
         controllers: [micro_controller_1.MicroController],
         providers: [micro_service_1.MicroService],
+        exports: [micro_service_1.MicroService],
     })
 ], MicroModule);
 exports.MicroModule = MicroModule;

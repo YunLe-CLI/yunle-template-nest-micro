@@ -6,5 +6,6 @@ import { MicroService } from './micro.service';
 @Module({
   controllers: [MicroController],
   providers: [MicroService],
+  exports: [MicroService],
 })
 export class MicroModule {}

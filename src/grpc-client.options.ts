@@ -6,7 +6,7 @@ export const grpcClientOptions: ClientOptions = {
   options: {
     url: '192.168.103.100:9004',
     package: 'api',
-    protoPath: join('../protobufs/', 'uuid.proto'),
+    protoPath: join(__dirname, '../protobufs/', 'uuid.proto'),
     loader: {
       arrays: true,
     },
