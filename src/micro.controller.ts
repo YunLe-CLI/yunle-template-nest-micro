@@ -7,7 +7,8 @@ export class MicroController {
   constructor(private readonly service: MicroService) {}
 
   @Get()
-  async getMicro(data: IMicroInput): Promise<IMicroEntity> {
+  async getMicro(): Promise<IMicroEntity> {
+    const data: IMicroInput = { id: 1 };
     return await this.service.getHello(data).toPromise();
   }
 }

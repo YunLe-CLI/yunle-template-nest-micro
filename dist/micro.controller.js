@@ -16,7 +16,8 @@ let MicroController = class MicroController {
         this.service = service;
     }
     async getMicro() {
-        return await this.service.getHello();
+        const data = { id: 1 };
+        return await this.service.getHello(data).toPromise();
     }
 };
 __decorate([

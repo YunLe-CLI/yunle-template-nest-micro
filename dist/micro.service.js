@@ -16,8 +16,8 @@ let MicroService = class MicroService {
     onModuleInit() {
         this.uuidService = this.client.getService('Uuid');
     }
-    getHello() {
-        return this.uuidService.createUuid(1);
+    getHello(data) {
+        return this.uuidService.createUuid(data.id);
     }
 };
 __decorate([
